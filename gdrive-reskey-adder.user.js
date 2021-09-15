@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name     gdrive-reskey-adder
-// @version  1
+// @version  1.0
+// @downloadURL https://github.com/Pyxia-Code/gdrive-reskey-adder/raw/main/gdrive-reskey-adder.user.js
+// @updateURL https://github.com/Pyxia-Code/gdrive-reskey-adder/raw/main/gdrive-reskey-adder.user.js
 // @grant    none
 // @include  https://accounts.google.com/serviceLogin*
 // @run-at   document-start
