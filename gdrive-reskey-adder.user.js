@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name     gdrive-reskey-adder
 // @version  1
-// @grant    drive.google.com
+// @grant    none
+// @include  https://accounts.google.com/serviceLogin*
 // @run-at   document-start
 // ==/UserScript==
 
