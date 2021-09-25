@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     gdrive-reskey-adder
-// @version  1.1
+// @version  1.2
 // @downloadURL https://github.com/Pyxia-Code/gdrive-reskey-adder/raw/main/gdrive-reskey-adder.user.js
 // @updateURL https://github.com/Pyxia-Code/gdrive-reskey-adder/raw/main/gdrive-reskey-adder.user.js
 // @grant    none
@@ -27843,6 +27843,37 @@ reskey_dict = {
 	"0BzW9o5O35hQzZlBZYlJTdjZCc0k": "0-kHrs6LfiLXMyMwbIbJqqkg",
 	"0BzW9o5O35hQzZmFmMzlkMjUtMDcwNC00ODE5LTk1NGEtZjk4ZTY5NWNiNjA4": "0-0iWVN-LufKlt1970CQ6Uww",
 	"0BzW9o5O35hQzZzhPTVctYVZuRzQ": "0-Ke3J7WjbM6SD4PFwUdMd1g",
+	"0B5GYuicO0xZHREVnbXd1UUNVT21uU2ozU0hPc2xyYncxcUow": "0-7cVJd8QNH69kTh617XBlXQ",
+	"0B5GYuicO0xZHRmxxY3RpeFlQTVhyblphSlFoc2pwTUF5M0Zv": "0-oF7X9-qNgGOfIJrrXzXb6A",
+	"0B5GYuicO0xZHWEtBUUdSN2p5R1dIaGRQdGtBd2xxc0xoWnIw": "0-Gv6mbPwksHFFu6IKRVmdCQ",
+	"0B5GYuicO0xZHbXBsXzA3SFJLaGhNeDFWdFh6X29BVWdsSlY0": "0-10beVfvzZeXHpRzBMN4miw",
+	"0B5GYuicO0xZHSk5JbTR3Z3ZubENVRDJ6LUpVY1pJMDFqZExj": "0-LA8OJDR5HAmC-3uJwyde6g",
+	"0B5GYuicO0xZHVU1WcGlwcUNlTkpXbDhubzFERXNGOW5WTktJ": "0-bM7OhXU_KJFzO_Hug256Gw",
+	"0B5GYuicO0xZHZDVSdVhhVjBYUmMwbkNpRTNEWktUeUZTanRr": "0--yOuEfDH8EfJGUXjdf45WQ",
+	"0B5GYuicO0xZHeHVVVFA3ZWVPT0I0djczZUVtbXpBR09VSE9Z": "0-6W7Y0Oe9GBwYSwMyKIqv9w",
+	"0B5GYuicO0xZHT0NERDBuX3I3Z1ZKeWhIa0c1d1FuMC1PSGZJ": "0-ospm9WpC0TeWIWzFhmEFjQ",
+	"0B5GYuicO0xZHSjBzNU5Ebk5Bdk1RX0lmMUhPZUlvTnp4eThn": "0-zQ5mDQU_cBYNnl5kr9MSWg",
+	"0B5GYuicO0xZHdmxTT24wMHQ0dmVjOUFZRXVVTnMxY2J5Ul9n": "0-z7PBhT54FVaNApdpTNekwQ",
+	"0B5GYuicO0xZHYTB6djItSEpENVdGbnF2MlBUN1dkVS0tNFVF": "0-te2S8_-iMA7E-mqacD7zsw",
+	"0B5GYuicO0xZHZlptdHlCa0ZFb0lmVVhvUEVqYVNNVWFIVU1N": "0-LWAVN3ZSXV54tam4BHZL7w",
+	"0B5GYuicO0xZHRGxvOVdGOXJELU9zQkNEQUVHMHdHZDhLY2F3": "0-ehEq5kSXzkHO4n7807BtLw",
+	"0B5GYuicO0xZHQ21aYlJwWkFWXzFQTjBtamw3TGZtMkVzTTkw": "0-ZEOS6iAW9GkUmmZDM9AUFA",
+	"0B5GYuicO0xZHbExYbXc3bEV1TVByTFNxbk8wUVM0ZUpsZDBz": "0-wtAl6VNPpDLVZUk9mt3nVA",
+	"0B5GYuicO0xZHcUxKUHplQWxhUi1NX3FGU3JTaExkcS1nUnhF": "0-HCkc1ObeH2ru89SPScd6aA",
+	"0B7kcJwaiFJRsN01KQ1lMYm1hUDg": "0-3vb-7Fx4SRkebszc_knSfw",
+	"0B5GYuicO0xZHN1d5dzJZOW5jVEF3YzBNM0ZNZmhxR29YQzEw": "0-LYrrhq65g6VN4r8y_aRM_w",
+	"0B5GYuicO0xZHTXc3M2JHZWllR3ZxTDRmN1N3WTQyN2xnX3Vr": "0-KgTccY97rjsK9wfF1hNJrg",
+	"0B5GYuicO0xZHb1U0V2EzdzB4NFpPcEVSdVB2YkcyUE9KeVNJ": "0-UK6sLZog31KUuL2erfeEsw",
+	"0B5GYuicO0xZHTUo2RmVJOV8zX1pBbkRnWWZWMVdFWnk3RFhJ": "0-l3uSvDam7mceRi21oNf0Iw",
+	"0B5GYuicO0xZHODFRMEJlTFBETTRXQmRULWpSeU9veC1aSXdv": "0-g7gcziaeut3aFFnLr7BPaw",
+	"0B5GYuicO0xZHODNFUDl3d0xqQ1NMYk56WFU5UUJMXzRxaVBN": "0-iYjyQMCq1tRISI2X3NChaQ",
+	"0B5GYuicO0xZHTzgxaER3RjJhWWpTS1RZZ2tPNHJNYjFFMlk4": "0-2Jo_nVzsyhUuCDD-HDyX0g",
+	"0B5GYuicO0xZHSHdYUHpjdGMxODhnc0lLQ0pvSUhISjVzLUYw": "0-R5UeT9N8hGSrdOo463f14w",
+	"0B3zSlxANE7rsZFZGcTVENW1sbTQ": "0-EppPIvUAx6bs453ulItI1w",
+	"0B5GYuicO0xZHWWtIQVN1TjZKZDdtSzNLMFdXNXY0N1RWRmQw": "0-Bvdg84bMIpw4U63ncm8UjA",
+	"0B5GYuicO0xZHUjdhb1MtMDd0dmR5dDlHWF9TNFhfWXlVQ3Yw": "0-qTLr0nFB1En1QkLE1V7q2A",
+	"0B5GYuicO0xZHaUpuazlMakxEeTk3aWJNVzBBcXJlSXpQUEFZ": "0-6kl1DtSETio4kRs6V1s8CQ",
+	"0B5GYuicO0xZHQkFEbnkyTTJ2QnhoaVU5TW05WkwwRHRxOS1n": "0-gu1nQuNpdSIirvF75wf66w",
 }
 
 if( document.URL.includes("resourcekey=") == false ){
